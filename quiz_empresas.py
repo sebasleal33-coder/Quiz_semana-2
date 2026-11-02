@@ -105,9 +105,10 @@ def ejecutar_quiz():
 
     print("\nPromedio de empleados:", promedio_empleados(empresas))
 
-
 # Iniciar el programa
 ejecutar_quiz()
+
+#COMENTARIOS Y CONCLUSIONES JUAN LEAL:
 
 #Se confirma la salida según lo esperado.
 
